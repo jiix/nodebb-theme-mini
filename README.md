@@ -3,6 +3,7 @@ A simple theme for nodebb
 
 ## Install
 Copy custom.css content to appearance/custom content(HTML/JS/CSS) and enable custom CSS/LESS.
+You can change the background image you like.
 
 ## Screenshot
 
