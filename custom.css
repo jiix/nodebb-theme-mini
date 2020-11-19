@@ -1,0 +1,28 @@
+body {
+    background: #fff;
+}
+
+
+
+@media (min-width: 768px) {
+  body {
+    font-family: Helvetica, Arial, PingFang SC, Microsoft Yahei, Hiragino Sans GB, WenQuanYi Micro Hei, NSimSun, Simsun, sans-serif !important;
+    background: #303333;
+    background-image: url("https://i.loli.net/2018/09/16/5b9e5d6fb9dae.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+
+
+#content {
+    padding-bottom: 20px;
+    padding-top: 10px;
+    background-color: #fff;
+    max-width: 970px;
+    transition: opacity 150ms linear;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    }
+}
